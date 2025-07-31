@@ -18,5 +18,5 @@ Simple SQL practice simulating a coffee shop cashier system.
 - Best-selling product
 - Average purchase per transaction
 
-## Test langsung:
+## Live Playground:
 Test langsung di: [SQLize Online] https://sqlize.online/sql/psql13/455f26a8a27fd3899be6fcfef8cfc380/
