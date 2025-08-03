@@ -21,6 +21,6 @@ Simple SQL practice simulating a coffee shop cashier system.
 ## Live Playground:
 Test langsung di: [SQLize Online] https://sqlize.online/sql/psql13/455f26a8a27fd3899be6fcfef8cfc380/
 
-## Dibuat oleh
+## Created by
 
 [Salman Alfarizi](https://github.com/Salmanalfarizi32)
